@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34900e68-b6c5-49e6-af73-ea7c9f21b668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlguelVeiculos.iml" afterDir="false" />
-    </list>
+    <list default="true" id="34900e68-b6c5-49e6-af73-ea7c9f21b668" name="Changes" comment="Atividade aluguel de carros" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +58,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680045822487</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atividade aluguel de carros">
+      <created>1680222191461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680222191461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividade aluguel de carros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividade aluguel de carros" />
   </component>
 </project>
